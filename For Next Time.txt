@@ -1,0 +1,6 @@
+- Spline Points are placed twice	[DONE]
+- Spline still have "knots"		[DONE]
+
+- Add Spline Mesh
+
+- No LightReceiver can absorb yet
