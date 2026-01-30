@@ -1,5 +1,5 @@
-- Spline Points are placed twice	[DONE]
-- Spline still have "knots"		[DONE]
+- Spline fired twice seem to have a wrong starting "invetory" of points.
+  Spline index n-2 (eg. 6 spline points means index 4) always inserts itself in the next spline points as spline index 1 and index 2 is a copy of the starting point spline.
 
 - Add Spline Mesh
 
