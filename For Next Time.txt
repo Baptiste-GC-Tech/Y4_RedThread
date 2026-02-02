@@ -1,3 +1,7 @@
+- Take the spline code and move it to BP_LightLaser.
+  Make BP_LightLaser's DefaultSceneRoot static so that SplineMeshes can attach to it.
+  Instantiate it only once and edit it on subsequent laser emissions.
+
 - Add Spline Mesh
 
 - No LightReceiver can absorb yet
