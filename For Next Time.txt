@@ -1,1 +1,3 @@
 - No LightReceiver can absorb yet
+
+- Add Start/End pos Spline Mesh calculation
